@@ -7,8 +7,8 @@
   },
   "plugins": [
     {
-      "name": "naked",
-      "source": "./plugins/naked",
+      "name": "lite",
+      "source": "./plugins/lite",
       "description": "Claude Code를 가벼운 모드로 전환하는 슬래시 커맨드. 자료조사·일반 질의·짧은 답변용. 프로젝트 맥락 무시, 도구 호출 최소화, 짧고 직접적인 응답."
     }
   ]
