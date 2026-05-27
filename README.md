@@ -19,7 +19,7 @@ Claude Code를 자료조사·일반 질의·짧은 답변용 모드로 전환하
 
 ```
 /plugin marketplace add dyz-debug/claude-plugins-daren
-/plugin install lite@claude-plugins-daren
+/plugin install lite@daren-plugins
 ```
 
 설치 후 Claude Code 세션에서 `/lite` 입력 → 가벼운 모드 진입.
