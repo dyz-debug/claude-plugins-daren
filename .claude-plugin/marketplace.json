@@ -1,0 +1,15 @@
+{
+  "name": "claude-plugins-daren",
+  "description": "Daren의 Claude Code 플러그인 모음",
+  "owner": {
+    "name": "Daren",
+    "url": "https://github.com/dyz-debug"
+  },
+  "plugins": [
+    {
+      "name": "naked",
+      "source": "./plugins/naked",
+      "description": "Claude Code를 가벼운 모드로 전환하는 슬래시 커맨드. 자료조사·일반 질의·짧은 답변용. 프로젝트 맥락 무시, 도구 호출 최소화, 짧고 직접적인 응답."
+    }
+  ]
+}

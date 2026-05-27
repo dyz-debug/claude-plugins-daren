@@ -1,0 +1,13 @@
+{
+  "name": "naked",
+  "version": "0.1.0",
+  "description": "Claude Code를 가벼운 모드로 전환하는 슬래시 커맨드. 자료조사·일반 질의·짧은 답변용.",
+  "author": {
+    "name": "Daren",
+    "url": "https://github.com/dyz-debug"
+  },
+  "homepage": "https://github.com/dyz-debug/claude-plugins-daren",
+  "repository": "https://github.com/dyz-debug/claude-plugins-daren",
+  "license": "MIT",
+  "keywords": ["claude-code", "slash-command", "lightweight", "research"]
+}
